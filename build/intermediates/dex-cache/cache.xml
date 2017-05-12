@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\okio-1.7.0_c19b29d6049dc402cd5453b6aeacb9c611ff805a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\a290af4d1d6567f041d71bdfc4c5abf81868b156\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\classes_c7a5fc790a4eb218d2a8c93a414c9cd65234cdee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\classes_cf37d62b7c08ea022969a96cd1c5b547708e0244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.5.1\3d719b7e20a11415d409e6c29a34a643c560fc6f\leakcanary-watcher-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d719b7e20a11415d409e6c29a34a643c560fc6f">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.5.1_754634dd04e079b9b644446b029472d6d349c439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\gson-2.6.2_343472c859d77922991fe7e4aaae1c7971cfafd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.5.1\77e5213b6ac5b323616a7bd283763bd60c0b3f6f\leakcanary-analyzer-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77e5213b6ac5b323616a7bd283763bd60c0b3f6f">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.5.1_a8e586cd26b3f1fd2e576b51c75e49df4b108648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\3448c3c11401aa07cd29d204e134fc22f9858d3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fbaa84da04e25bb7812592814026101d20dbc91">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\classes_5dafa727c5c926118c031d951ed692c007667674.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android-develop\StockManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_559e9cfe14a35be49a3c0e261389acf10d07d6ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_be8b6ce1f14a87427ad0b125b25ae5d47b610529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_6a56e7d719793b9efa4ceb366eaa1272b784c670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\93586a8a2b82fd7893aa03e0b4c3279c66377623\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\classes_03344b632941992428bb89b4762e84111c9a9501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.3\640a438d2d415c056ca6a673ac26b183b044e160\haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\haha-2.0.3_7f5a4b9d0082e470ff0ac78a6a5432bfaf525db5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android-develop\StockManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50a40d294806d59af33ea60ab20e3fe469085185">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_26c1b4555a772dc7dd40b45a5fa290ce97a78d7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\libs\BmobSDK_3.5.0_20160630.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.0_20160630_24144008d88990b8d555362b37c6dfdf5d3b7d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jem\.android\build-cache\52a0747e7262f566501c6b08d6c15687ffae814e\output\jars\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="F:\android-develop\StockManager\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_64a599d55739fa55a277504a03d362c7110ad61d.jar" />
+    </item>
+
+</items>
